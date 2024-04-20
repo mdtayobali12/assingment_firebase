@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814456782822",
+    "project_id": "assingment-28f2d",
+    "storage_bucket": "assingment-28f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814456782822:android:ddc102dcb57b01faf92027",
+        "android_client_info": {
+          "package_name": "com.example.assingment_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7_qtCKjIaCGnHuQE7OlcZ-MUZzdBf1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
